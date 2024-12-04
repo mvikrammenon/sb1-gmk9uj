@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.header {
+  background-color: #e6fffa;
+  padding: 1rem;
+  border-radius: 8px 8px 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.header h2 {
+  margin: 0;
+  color: #2d3748;
+  font-size: 1rem;
+  font-weight: 500;
+}
